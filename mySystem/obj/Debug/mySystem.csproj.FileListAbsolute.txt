@@ -1,0 +1,4 @@
+H:\myMVC\demo\Confuse\mySystem\bin\Debug\mySystem.dll
+H:\myMVC\demo\Confuse\mySystem\bin\Debug\mySystem.pdb
+H:\myMVC\demo\Confuse\mySystem\obj\Debug\mySystem.dll
+H:\myMVC\demo\Confuse\mySystem\obj\Debug\mySystem.pdb

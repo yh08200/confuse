@@ -1,0 +1,9 @@
+H:\myMVC\demo\Confuse\SetMethod\bin\Debug\SetMethod.dll
+H:\myMVC\demo\Confuse\SetMethod\bin\Debug\SetMethod.pdb
+H:\myMVC\demo\Confuse\SetMethod\obj\Debug\SetMethod.dll
+H:\myMVC\demo\Confuse\SetMethod\obj\Debug\SetMethod.pdb
+H:\myMVC\demo\Confuse\SetMethod\bin\Debug\mySystem.dll
+H:\myMVC\demo\Confuse\SetMethod\bin\Debug\mySystem.pdb
+H:\myMVC\demo\Confuse\SetMethod\obj\Debug\SetMethod.csprojResolveAssemblyReference.cache
+H:\myMVC\demo\Confuse\SetMethod\obj\Debug\SetMethod.FormShow.Test.resources
+H:\myMVC\demo\Confuse\SetMethod\obj\Debug\SetMethod.csproj.GenerateResource.Cache
